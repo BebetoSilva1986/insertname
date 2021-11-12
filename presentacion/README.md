@@ -20,4 +20,4 @@ Soy Ingeniera Mecatronica, me gusta aprender y esta experiencia en programar en 
 
 
 [ Carlos Alberto Suarez:](https://github.com/BebetoSilva1986)
-Soy Ingeniero electrónico, me gusta la programación y este es un reto personal.   
+Soy Ingeniero electrónico, me gusta la programación y este es un reto personal .   
